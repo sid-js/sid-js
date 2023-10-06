@@ -1,7 +1,4 @@
-<img src="https://raw.githubusercontent.com/sid-js/sid-js/main/github-header-image.png" alt="header"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid-js&label=Profile%20views&color=0e75b6&style=flat" alt="sid-js" /> </p>
-
+## Hi, I'm Sidharth 
 
 - 🌱 I’m currently learning **Devops, Machine Learning**
 
@@ -11,6 +8,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sidharth-sreejil/](https://www.linkedin.com/in/sidharth-sreejil/)
 
+## I'm skilled in Frontend : 
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,react,next,tailwind)
+## I'm strong in Backend: 
+![My Skills](https://skillicons.dev/icons?i=go,aws,git,firebase,nodejs,mongo,prisma,redis)
 
 [![An image of @sidjs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sidjs)](https://holopin.io/@sidjs)
 
